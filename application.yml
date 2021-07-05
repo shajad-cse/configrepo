@@ -1,0 +1,9 @@
+my:
+  greeting: Hello World From Config Server Changed
+  list:
+    values: One, Two, Three, Four, Five
+
+db:
+  connection: connection-string-here from config server changed 
+  host: 127.0.0.1
+  posrt: 1201
