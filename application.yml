@@ -1,9 +1,10 @@
 my:
-  greeting: Hello World From Config Server Changed
+  greeting: Hello World From Config Server Changed GIT REPOSITORY
   list:
-    values: One, Two, Three, Four, Five
+    values: One, Two, Three, Four, Five, Six
+   
 
 db:
-  connection: connection-string-here from config server changed 
+  connection: connection-string-here from config server changed GIT REPOSITORY 
   host: 127.0.0.1
-  posrt: 1201
+  posrt: 1203
