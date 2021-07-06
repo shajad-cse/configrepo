@@ -1,7 +1,7 @@
 my:
   greeting: Hello World From Config Server Changed GIT REPOSITORY
   list:
-    values: One, Two, Three, Four, Five, Six
+    values: One, Two, Three, Four, Five, Thousand
    
 
 db:
