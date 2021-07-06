@@ -1,0 +1,9 @@
+my:
+  greeting: Hello World From Config Server Changed spring boot config client yaml
+  list:
+    values: One, Two, Three, Four, Five, Six 
+
+db: 
+  connection: connection-string-here from config server changed spring boot config client yaml
+  host: 127.0.0.1
+  posrt: 1205
